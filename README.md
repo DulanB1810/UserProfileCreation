@@ -12,8 +12,7 @@ check in command prompt, npm --version - to check if installed
     >> File Name: User Profile Creation_Automated Test cases.xlsx
 
 **Execution:**
-> Test code are under./Tests folder
-> Use command npx playwright test ./tests/....spec.js
+> Test code are under./Tests folder, use command npx playwright test ./tests/....spec.js
 
 **Allure report - To view the results of the execution**
 1. Install npm i -D  @playwright/test allure-playwright from VS code
