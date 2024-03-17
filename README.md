@@ -7,6 +7,10 @@ check in command prompt, npm --version - to check if installed
 4. Open the folder in VScode
 5. Install playwright using the command 'npm init playwright@latest'
 
+**Automated Test cases:**
+> The automated test cases written manually are attached to the main branch
+    >> File Name: User Profile Creation_Automated Test cases.xlsx
+
 **Execution:**
 > Test code are under./Tests folder
 > Use command npx playwright test ./tests/....spec.js
